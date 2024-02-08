@@ -1,15 +1,7 @@
-gmat.pl was run. Current time is Mon Feb 13 19:59:40 2017
-In this run, parameters setting are: -r 12 -m 1 -x 10 -s 0 -i C:\Users\xuewen_2\Desktop\NIX2017\Ntab-K326_AWOJ-SS_K326.cds.annot.fna
+gmat.pl was run. Current time is Sun Oct 29 14:29:04 2023
+In this run, parameters setting are: -r 15 -m 2 -x 6 -s 0 -i /Users/ad26693/Desktop/_ncbi/GCA_004027835.1/GCA_004027835.1_AloPal_v1_BIUU_genomic.fna
 Sequences were successfully formatted. 
-file: C:\Users\xuewen_2\Desktop\NIX2017\Ntab-K326_AWOJ-SS_K326.cds.annot.fna.fms.
-file: C:\Users\xuewen_2\Desktop\NIX2017\Ntab-K326_AWOJ-SS_K326.cds.annot.fna.fms.sat1
+file: /Users/ad26693/Desktop/_ncbi/GCA_004027835.1/GCA_004027835.1_AloPal_v1_BIUU_genomic.fna.fms.
+file: /Users/ad26693/Desktop/_ncbi/GCA_004027835.1/GCA_004027835.1_AloPal_v1_BIUU_genomic.fna.fms.sat1
 
-gmat.pl was run. Current time is Mon Feb 13 19:59:44 2017
-Microsatellite data were provided.
-file:  C:\Users\xuewen_2\Desktop\NIX2017\Ntab-K326_AWOJ-SS_K326.cds.annot.fna.ssr
-
-gmat.pl was run. Current time is Mon Feb 13 20:01:01 2017
-statistic results were provided.
-file:  C:\Users\xuewen_2\Desktop\NIX2017\Ntab-K326_AWOJ-SS_K326.cds.annot.fna.sat2
-
-gmat.pl was run. Current time is Mon Feb 13 20:01:01 2017
+gmat.pl was run. Current time is Sun Oct 29 14:30:22 2023
